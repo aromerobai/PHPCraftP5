@@ -1,0 +1,357 @@
+# Translation of Plugins - Otter Blocks &#8211; Gutenberg Blocks, Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Otter Blocks &#8211; Gutenberg Blocks, Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-02 18:47:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Otter Blocks &#8211; Gutenberg Blocks, Page Builder for Gutenberg Editor &amp; FSE - Development (trunk)\n"
+
+#: inc/server/class-fse-onboarding-server.php:84
+msgid "Missing templates"
+msgstr "Faltan plantillas"
+
+#: inc/plugins/class-fse-onboarding.php:51
+#: inc/plugins/class-fse-onboarding.php:52
+msgid "Theme Setup"
+msgstr "Configuración del tema"
+
+#: inc/plugins/class-dashboard.php:307
+msgid "Export"
+msgstr "Exportar"
+
+#: inc/plugins/class-limited-offers.php:207
+msgid "Invalid nonce! Refresh the page and try again."
+msgstr "¡Nonce no válido! Recarga tu página e inténtalo de nuevo."
+
+#: build/animation/blocks/blocks/form/stripe-field/block.json
+#: build/animation/pro/blocks/form-stripe-field/block.json
+#: build/blocks/form-stripe-field/block.json
+#: build/css/blocks/blocks/form/stripe-field/block.json
+#: build/css/pro/blocks/form-stripe-field/block.json
+#: build/export-import/blocks/blocks/form/stripe-field/block.json
+#: build/export-import/pro/blocks/form-stripe-field/block.json
+msgctxt "block description"
+msgid "A field used for adding Stripe products to the form."
+msgstr "Un campo utilizado para añadir productos de Stripe al formulario."
+
+#: build/animation/blocks/blocks/form/stripe-field/block.json
+#: build/animation/pro/blocks/form-stripe-field/block.json
+#: build/blocks/form-stripe-field/block.json
+#: build/css/blocks/blocks/form/stripe-field/block.json
+#: build/css/pro/blocks/form-stripe-field/block.json
+#: build/export-import/blocks/blocks/form/stripe-field/block.json
+#: build/export-import/pro/blocks/form-stripe-field/block.json
+msgctxt "block title"
+msgid "Stripe Field"
+msgstr "Campo de Stripe"
+
+#: build/animation/blocks/blocks/form/hidden-field/block.json
+#: build/animation/pro/blocks/form-hidden-field/block.json
+#: build/blocks/form-hidden-field/block.json
+#: build/css/blocks/blocks/form/hidden-field/block.json
+#: build/css/pro/blocks/form-hidden-field/block.json
+#: build/export-import/blocks/blocks/form/hidden-field/block.json
+#: build/export-import/pro/blocks/form-hidden-field/block.json
+msgctxt "block keyword"
+msgid "hidden"
+msgstr "oculto"
+
+#: build/animation/blocks/blocks/form/hidden-field/block.json
+#: build/animation/pro/blocks/form-hidden-field/block.json
+#: build/blocks/form-hidden-field/block.json
+#: build/css/blocks/blocks/form/hidden-field/block.json
+#: build/css/pro/blocks/form-hidden-field/block.json
+#: build/export-import/blocks/blocks/form/hidden-field/block.json
+#: build/export-import/pro/blocks/form-hidden-field/block.json
+msgctxt "block keyword"
+msgid "metadata"
+msgstr "metadatos"
+
+#: build/animation/blocks/blocks/form/hidden-field/block.json
+#: build/animation/pro/blocks/form-hidden-field/block.json
+#: build/blocks/form-hidden-field/block.json
+#: build/css/blocks/blocks/form/hidden-field/block.json
+#: build/css/pro/blocks/form-hidden-field/block.json
+#: build/export-import/blocks/blocks/form/hidden-field/block.json
+#: build/export-import/pro/blocks/form-hidden-field/block.json
+msgctxt "block description"
+msgid "A field used for adding extra metadata to the Form via URL params."
+msgstr "Un campo utilizado para añadir metadatos adicionales al formulario mediante parámetros de la URL."
+
+#: build/animation/blocks/blocks/form/hidden-field/block.json
+#: build/animation/pro/blocks/form-hidden-field/block.json
+#: build/blocks/form-hidden-field/block.json
+#: build/css/blocks/blocks/form/hidden-field/block.json
+#: build/css/pro/blocks/form-hidden-field/block.json
+#: build/export-import/blocks/blocks/form/hidden-field/block.json
+#: build/export-import/pro/blocks/form-hidden-field/block.json
+msgctxt "block title"
+msgid "Hidden Field"
+msgstr "Campo oculto"
+
+#: inc/render/class-sharing-icons-block.php:99
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/render/class-sharing-icons-block.php:93 build/blocks/blocks.js:16
+msgid "Mastodon"
+msgstr "Mastodon"
+
+#: inc/render/class-sharing-icons-block.php:87 build/blocks/blocks.js:16
+msgid "Telegram"
+msgstr "Telégram"
+
+#: inc/plugins/class-dashboard.php:148
+msgid "Store, manage and analyze your form submissions with ease – all in one place. With Otter powerful features, managing submissions has never been simpler."
+msgstr "Almacena, gestiona y analiza tus envíos de formularios con facilidad - todo en un solo lugar. Con las potentes características de Otter, la gestión de envíos nunca ha sido tan sencillo."
+
+#: inc/plugins/class-dashboard.php:147
+msgid "Collect Your Form Submissions"
+msgstr "Recoge tus envíos de formularios"
+
+#: inc/plugins/class-dashboard.php:74 inc/plugins/class-dashboard.php:75
+#: inc/plugins/class-dashboard.php:303
+msgid "Form Submissions"
+msgstr "Envíos de formularios"
+
+#: build/animation/blocks/blocks/form/nonce/block.json
+#: build/blocks/form-nonce/block.json
+#: build/css/blocks/blocks/form/nonce/block.json
+#: build/export-import/blocks/blocks/form/nonce/block.json
+msgctxt "block title"
+msgid "CSRF Protection"
+msgstr "Protección CSRF"
+
+#: inc/render/class-posts-grid-block.php:183
+msgid "Posted on"
+msgstr "Publicado el"
+
+#: inc/patterns/gallery.php:9
+msgid "Gallery"
+msgstr "Galería"
+
+#: inc/class-pro.php:335 inc/plugins/class-limited-offers.php:266
+#: build/blocks/blocks.js:16
+msgid "Learn more"
+msgstr "Aprende más"
+
+#: inc/class-pro.php:287
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/class-main.php:451 inc/class-pro.php:423 build/blocks/blocks.js:16
+msgid "Get Otter Pro"
+msgstr "Obtener Otter Pro"
+
+#: inc/render/class-posts-grid-block.php:246
+msgid "Read More"
+msgstr "Leer Más"
+
+#: build/animation/blocks/blocks/form/input/block.json
+#: build/blocks/form-input/block.json
+#: build/css/blocks/blocks/form/input/block.json
+#: build/export-import/blocks/blocks/form/input/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "texto"
+
+#: build/animation/blocks/blocks/form/block.json
+#: build/animation/blocks/blocks/form/multiple-choice/block.json
+#: build/blocks/form-multiple-choice/block.json build/blocks/form/block.json
+#: build/css/blocks/blocks/form/block.json
+#: build/css/blocks/blocks/form/multiple-choice/block.json
+#: build/export-import/blocks/blocks/form/block.json
+#: build/export-import/blocks/blocks/form/multiple-choice/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "formulario"
+
+#: build/animation/blocks/blocks/advanced-heading/block.json
+#: build/animation/pro/woocommerce/title/block.json
+#: build/blocks/advanced-heading/block.json
+#: build/css/blocks/blocks/advanced-heading/block.json
+#: build/css/pro/woocommerce/title/block.json
+#: build/export-import/blocks/blocks/advanced-heading/block.json
+#: build/export-import/pro/woocommerce/title/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "título"
+
+#: build/animation/blocks/blocks/section/columns/block.json
+#: build/blocks/advanced-columns/block.json
+#: build/css/blocks/blocks/section/columns/block.json
+#: build/export-import/blocks/blocks/section/columns/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "sección"
+
+#: build/animation/blocks/blocks/flip/block.json build/blocks/flip/block.json
+#: build/css/blocks/blocks/flip/block.json
+#: build/export-import/blocks/blocks/flip/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "contenedor"
+
+#: build/animation/blocks/blocks/posts/block.json
+#: build/blocks/posts-grid/block.json build/css/blocks/blocks/posts/block.json
+#: build/export-import/blocks/blocks/posts/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "entradas"
+
+#: build/animation/blocks/blocks/button-group/button/block.json
+#: build/blocks/button/block.json
+#: build/css/blocks/blocks/button-group/button/block.json
+#: build/export-import/blocks/blocks/button-group/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Botón"
+
+#: inc/class-registration.php:467 build/blocks/blocks.js:1
+msgid "Minutes"
+msgstr "Minutos"
+
+#: inc/class-registration.php:469 build/blocks/blocks.js:1
+msgid "Hours"
+msgstr "Horas"
+
+#: inc/class-registration.php:470 build/blocks/blocks.js:1
+msgid "Day"
+msgstr "Día"
+
+#: inc/plugins/class-dashboard.php:636 build/blocks/blocks.js:1
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/class-patterns.php:39 inc/patterns/call-to-action.php:9
+msgid "Call to Action"
+msgstr "Llamada a la acción"
+
+#: inc/plugins/class-dashboard.php:84 inc/plugins/class-dashboard.php:85
+#: build/blocks/blocks.js:16 build/dashboard/index.js:1
+msgid "Blocks"
+msgstr "Bloques"
+
+#: inc/plugins/class-options-settings.php:152
+msgid "Anonymous data tracking object."
+msgstr "Objeto de seguimiento anónimo de datos."
+
+#: inc/server/class-dashboard-server.php:128
+msgid "Sorry, the filesystem isn't writeable."
+msgstr "Lo siento, no se puede escribir en el sistema de archivos."
+
+#: inc/server/class-dashboard-server.php:147
+msgid "Sorry, the directory doesn't exist."
+msgstr "Lo siento, el directorio no existe."
+
+#: inc/server/class-dashboard-server.php:163
+msgid "Styles deleted."
+msgstr "Estilos borrados."
+
+#: inc/plugins/class-options-settings.php:142 build/dashboard/index.js:1
+msgid "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+msgstr "Conviértete en colaborador apuntándote a nuestro seguimiento de datos anónimo. Garantizamos que no recogemos datos sensibles."
+
+#: inc/plugins/class-dashboard.php:66 inc/plugins/class-dashboard.php:67
+#: otter-blocks.php:69 build/blocks/blocks.js:1 build/blocks/blocks.js:5
+#: build/blocks/blocks.js:11 build/blocks/blocks.js:12
+#: build/blocks/blocks.js:16
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/plugins/class-options-settings.php:76 build/dashboard/index.js:1
+msgid "Blocks Animation module allows to add CSS animations to each block in Block Editor."
+msgstr "El módulo Blocks Animation permite añadir animaciones CSS a cada bloque en el editor de bloques."
+
+#: inc/plugins/class-options-settings.php:65 build/dashboard/index.js:1
+msgid "Custom CSS module allows to add custom CSS to each block in Block Editor."
+msgstr "El módulo Personalizar CSS permite añadir CSS personalizado a cada bloque en el Editor de Bloques"
+
+#: inc/render/class-posts-grid-block.php:404 build/blocks/blocks.js:11
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/plugins/class-options-settings.php:43
+msgid "Redirect on new install."
+msgstr "Redireccionar en una nueva instalación."
+
+#: inc/plugins/class-options-settings.php:248
+msgid "Make Section block your default block for Pages?"
+msgstr "¿Hacer el bloque de sección tu bloque por defecto para las páginas?"
+
+#: inc/class-registration.php:124
+msgid "Otter"
+msgstr "Otter"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/otter-blocks"
+msgstr "https://themeisle.com/plugins/otter-blocks"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#: inc/class-registration.php:1122 inc/class-registration.php:1134
+#: inc/css/class-block-frontend.php:703 inc/css/class-block-frontend.php:715
+#: inc/css/class-css-handler.php:601 inc/css/class-css-handler.php:613
+#: inc/integrations/class-form-email.php:302
+#: inc/integrations/class-form-email.php:314
+#: inc/integrations/class-form-providers.php:141
+#: inc/integrations/class-form-providers.php:153
+#: inc/plugins/class-block-conditions.php:405
+#: inc/plugins/class-block-conditions.php:417
+#: inc/plugins/class-dashboard.php:692 inc/plugins/class-dashboard.php:704
+#: inc/plugins/class-dynamic-content.php:810
+#: inc/plugins/class-dynamic-content.php:822
+#: inc/plugins/class-fse-onboarding.php:280
+#: inc/plugins/class-fse-onboarding.php:292
+#: inc/plugins/class-options-settings.php:826
+#: inc/plugins/class-options-settings.php:838
+#: inc/render/amp/class-circle-counter-block.php:103
+#: inc/render/amp/class-circle-counter-block.php:115
+#: inc/render/amp/class-lottie.block.php:85
+#: inc/render/amp/class-lottie.block.php:97
+#: inc/render/amp/class-slider-block.php:87
+#: inc/render/amp/class-slider-block.php:99
+#: inc/render/class-masonry-variant.php:105
+#: inc/render/class-masonry-variant.php:117
+#: inc/server/class-dashboard-server.php:226
+#: inc/server/class-dashboard-server.php:238
+#: inc/server/class-dynamic-content-server.php:259
+#: inc/server/class-dynamic-content-server.php:271
+#: inc/server/class-form-server.php:1105 inc/server/class-form-server.php:1117
+#: inc/server/class-fse-onboarding-server.php:128
+#: inc/server/class-fse-onboarding-server.php:140
+#: inc/server/class-prompt-server.php:383
+#: inc/server/class-prompt-server.php:395
+#: inc/server/class-stripe-server.php:157
+#: inc/server/class-stripe-server.php:169
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas ¿eh?"
+
+#. Description of the plugin
+msgid "Create beautiful and attracting posts, pages, and landing pages with Otter – Page Builder Blocks & Extensions for Gutenberg. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages."
+msgstr "Crea hermosas y atractivas entradas, páginas y páginas de destino con Otter – Page Builder Blocks & Extensions for Gutenberg. Otter viene con docenas de bloques para Gutenberg que son todo lo que necesitas para crear bonitas páginas."
+
+#: inc/render/class-sharing-icons-block.php:45 build/blocks/blocks.js:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/render/class-sharing-icons-block.php:39 build/blocks/blocks.js:16
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/class-patterns.php:38 inc/plugins/class-dashboard.php:49
+#: inc/plugins/class-dashboard.php:50 inc/plugins/class-dashboard.php:300
+#: build/dashboard/index.js:1
+msgid "Otter Blocks"
+msgstr "Otter Blocks"
